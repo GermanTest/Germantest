@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient)
 ### Let's connect and have a chat! 🌟
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/edgaregonzalez/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/german-formica/)
 ### A litle bit about me:
 - 🌱 I’m currently learning about DevOps and Networking Automation.
 - 💬 Ask me about Python, docker, Airflow.
@@ -12,4 +12,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&descAlign=34&section=footer)
